@@ -1,1 +1,1 @@
-These are front end websites and developed using HTML,bootstrap.
+These are front end websites developed using HTML,bootstrap.
