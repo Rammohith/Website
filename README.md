@@ -1,1 +1,1 @@
-This is a packers and movers weebsite, which is front end and developed using HTML,bootstrap.
+These are front end websites and developed using HTML,bootstrap.
